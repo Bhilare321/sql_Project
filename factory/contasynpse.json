@@ -1,0 +1,15 @@
+{
+	"name": "contasynpse",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a3d37fb5-578e-4a4a-8e32-4a8687ae12f9",
+		"tenantId": "58f96a11-56df-4afa-9b8b-30accdfcada0"
+	}
+}
